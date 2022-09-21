@@ -22,6 +22,9 @@ bld/
 [Oo]bj/  
 [Ll]og/
 [Uu]pload/  
+[Tt]mp
+[Oo]ut
+*.bin
   
 # Visual Studio 2015 cache/options directory  
 .vs/  
